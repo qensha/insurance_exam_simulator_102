@@ -1,5 +1,4 @@
 # insurance_exam_simulator_102
-insurance_exam_simulator_102
 <!DOCTYPE html>
 <html lang="en">
 <head>
